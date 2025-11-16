@@ -1,0 +1,47 @@
+name: "✨ Feature Request"
+description: Suggest a new feature or improvement
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a feature to improve N1netails!
+
+  - type: input
+    id: summary
+    attributes:
+      label: Feature Summary
+      placeholder: "Add support for retry policies in kuda"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why do we need this feature?
+      placeholder: "Developers need automatic retries for network failures"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution
+      description: How should this work?
+      placeholder: |
+        Add a retryable annotation or automatic resend logic 
+        in the internal HTTP client.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true

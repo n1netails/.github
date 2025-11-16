@@ -1,0 +1,7 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Security Vulnerabilities
+    url: https://github.com/n1netails/security
+    about: |
+      Please DO NOT report vulnerabilities publicly.
+      Use our responsible disclosure process.
