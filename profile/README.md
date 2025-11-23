@@ -155,3 +155,9 @@ Huge thanks to these amazing people who help power N1netails 💙
 ### N1netails Telegram Client
 
 [![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-telegram-client)](https://github.com/n1netails/n1netails-telegram-client/graphs/contributors)
+
+---
+
+### N1netails Discord Webhook Client
+
+[![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-discord-webhook-client)](https://github.com/n1netails/n1netails-discord-webhook-client/graphs/contributors)
