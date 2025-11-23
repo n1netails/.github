@@ -145,8 +145,13 @@ Follow our guidelines here:
 
 ## 🏆 Contributors
 
+### N1netails
 Huge thanks to these amazing people who help power N1netails 💙
 
 [![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails)](https://github.com/n1netails/n1netails/graphs/contributors)
 
 ---
+
+### N1netails Telegram Client
+
+[![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-telegram-client)](https://github.com/n1netails/n1netails-telegram-client/graphs/contributors)
