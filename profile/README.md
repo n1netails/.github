@@ -14,6 +14,15 @@
   <a href="https://discord.gg/ma9CCw7F2x"><img src="https://img.shields.io/badge/Join_Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
+  ![Stars](https://img.shields.io/github/stars/n1netails/n1netails)
+  ![Forks](https://img.shields.io/github/forks/n1netails/n1netails)
+  ![Issues](https://img.shields.io/github/issues/n1netails/n1netails)
+  ![PRs](https://img.shields.io/github/issues-pr/n1netails/n1netails)
+  ![Contributors](https://img.shields.io/github/contributors/n1netails/n1netails)
+  ![Last Commit](https://img.shields.io/github/last-commit/n1netails/n1netails)
+  <!-- ![Release](https://img.shields.io/github/v/release/n1netails/n1netails) -->
+  <!-- ![Docker Pulls](https://img.shields.io/docker/pulls/n1netails/n1netails) -->
+
 ---
 
 ## 🚨 What Is N1netails?
