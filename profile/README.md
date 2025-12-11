@@ -31,7 +31,7 @@ N1netails is an open-source platform that provides **practical, developer-first 
 
 If you’re tired of:
 
-* Bloated SIEM solutions
+* Lack of alerting and notifications
 * Complex enterprise monitoring tools
 * Applications with *no* built-in alerting
 
