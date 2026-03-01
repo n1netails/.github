@@ -170,3 +170,12 @@ Huge thanks to these amazing people who help power N1netails 💙
 ### N1netails Discord Webhook Client
 
 [![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-discord-webhook-client)](https://github.com/n1netails/n1netails-discord-webhook-client/graphs/contributors)
+
+---
+
+## N1netails Slack Client Contributors
+
+Thanks to all the amazing people who contributed to N1netails Slack Client! 💙
+
+[![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-slack-client)](https://github.com/n1netails/n1netails-slack-client/graphs/contributors)
+
