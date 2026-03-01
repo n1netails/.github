@@ -173,7 +173,7 @@ Huge thanks to these amazing people who help power N1netails 💙
 
 ---
 
-## N1netails Slack Client Contributors
+### N1netails Slack Client Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=n1netails/n1netails-slack-client)](https://github.com/n1netails/n1netails-slack-client/graphs/contributors)
 
